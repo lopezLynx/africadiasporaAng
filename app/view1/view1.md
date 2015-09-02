@@ -24,4 +24,4 @@
 # Any additions or modifications (even trivial) should have corresponding
 # test change in `test/test_blob.rb`.
 #
-# Please keep this list alphabetized. Capitalization comes before lower case.
+#### Please keep this list alphabetized. Capitalization comes before lower case.
