@@ -26,3 +26,8 @@
 #
 #### Please keep this list alphabetized. Capitalization comes before lower case.
 *Olanrewaju* is just testing __GFM__.
+These are the types of flowers that i know:
+-Hibiscus
+-Roses
+-Dafodils
+*Pride of Barbados
