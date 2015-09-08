@@ -52,23 +52,24 @@
         ag-accordion-select
       ></button>
  ```
-## OPTIONS
-| Options                  | Type         	   | Default/Values      |   Description              |
-| ------------------------ |:-----------------:| :------------------:| --------------------------:|      
-| target                   |                   |                     |                            |
-| targetField              |                   |                     |                            |
-| multiple                 |                   |                     |                            |
-| placeholder              |                   |                     |                            |
-| displayTextField         |                   |                     |                            |
-| valueField               |                   |                     |                            |
-| collection               |                   |                     |                            |
-| change                   |                   |                     |                            |
-| isParentOnEmpty          |                   |                     |                            |
-| help                     |                   |                     |                            | 
-| helpData                 |                   |                     |                            |
-| orderBy                  |                   |                     |                            |
-| filterCounts             |                   |                     |                            |
-| filterCountKey           |                   |                     |                            | 
-| model                    |                   |                     |                            |
-| expanded                 |                   |                     |                            |
-| dontExpandInitially      |                   |                     |                            | 
+Options.
+
+| Options                  | Type              | Default/Values      |   Description              |
+| ------------------------ | ----------------- | ------------------- | -------------------------- |      
+| target                   |        a          |        r            |        n                   |
+| targetField              |        a          |        g            |         n                  |
+| multiple                 |        a          |       i             |         n                  |
+| placeholder              |        a          |       j             |        c                   |
+| displayTextField         |        a          |       h             |        n                   |
+| valueField               |       a           |        g            |         h                  |
+| collection               |       d           |        h            |          b                 |
+| change                   |      s            |      h              |        d                   |
+| isParentOnEmpty          |        f          |        g            |         n                  |
+| help                     |       g           |        h            |          v                 | 
+| helpData                 |        g          |      h              |                            |
+| orderBy                  |        j          |        k            |         b                  |
+| filterCounts             |       j           |       h             |        q                   |
+| filterCountKey           |      g            |       g             |        v                   | 
+| model                    |       y           |        v            |         k                  |
+| expanded                 |        g          |       g             |         r                  |
+| dontExpandInitially      |       p           |        b            |         p                  | 
