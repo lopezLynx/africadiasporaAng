@@ -23,3 +23,7 @@ author_bio: >
             Bio here. Markdown is allowed. Break onto new lines if necessary.
 layout: post
 ---
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
